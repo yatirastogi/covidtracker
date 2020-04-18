@@ -1,1 +1,2 @@
-# covidtracker to track death , recoveries and total corona cases in any country
+# covidtracker 
+A tracker to track death , recoveries and total Corona Virus cases in any country 
